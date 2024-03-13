@@ -1,8 +1,9 @@
-# *Wines Analysis - Python*
+# Wines Analysis - Python
 In this Project I used Wines Dataset from Kaggle.
-This consists of analysing data, starting with Exploratory Data Analysis, and then building a Predictive Analysis.
 
-## *Requirements*
+This project consists of analysing data, starting with Exploratory Data Analysis, and then building a Predictive Analysis.
+
+## Requirements
         scikit-learn==1.4.0
         pandas==2.1.0
         notebook
