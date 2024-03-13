@@ -9,6 +9,7 @@ This project consists of analysing data, starting with Exploratory Data Analysis
         matplotlib==3.8.2
         seaborn==0.13.2
         umap-learn==0.5.5
+        
 
 
 
