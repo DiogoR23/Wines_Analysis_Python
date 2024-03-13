@@ -9,5 +9,6 @@ This project consists of analysing data, starting with Exploratory Data Analysis
         matplotlib==3.8.2
         seaborn==0.13.2
 
-
+        import pandas as pd
+        
 
